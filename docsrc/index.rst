@@ -13,7 +13,6 @@ Projects
 
 * `Babiators Lost & Found <https://babiators.com/pages/guarantee-program>`__ (repo private): REST API to facilitate Babiators' Lost and Found redemption program (register products, manage inventory availability across multiple distributors, redeem products, charge for shipping, etc.)
 
-
 Links
 -----
 `Github <https://github.com/edelgm6/>`_
