@@ -1,20 +1,21 @@
-.. garrett documentation master file, created by
-   sphinx-quickstart on Wed May 13 16:38:42 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Garrett Edel
+============
 
-Welcome to garrett's documentation!
-===================================
+Projects
+----------------
+* `MortgageROI <https://www.mortgageroi.com/>`_ (`repo <https://github.com/edelgm6/mortgage-calc/>`__): Calculator to understand economics of renting v. buying a home
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+* `Montecarlo Poker <https://montecarlo-poker.herokuapp.com/>`_ (`repo <https://github.com/edelgm6/montecarlo-holdem/>`__): Monte Carlo simulator for Texas Holdem hands (e.g., if I have pocket Queens and an opponent has a King/Queen suited, how often will I win?)
+
+* `Draft-CLI <https://pypi.org/project/draft-cli/>`_ (`repo <https://github.com/edelgm6/draft>`__): Command Line Interface tool for writing long documents in Markdown
+
+* Retool Pokedex (`repo <https://github.com/edelgm6/retool-pokedex>`__): Simple REST API to store Pokemon. Created to test functionality of `Retool <https://retool.com/>`_
+
+* `Babiators Lost & Found <https://babiators.com/pages/guarantee-program>`__ (repo private): REST API to facilitate Babiators' Lost and Found redemption program (register products, redeem products, charge for shipping)
 
 
+Links
+-----
+`Github <https://github.com/edelgm6/>`_
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+`LinkedIn <https://www.linkedin.com/in/garrettedel/>`_
