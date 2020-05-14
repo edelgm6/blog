@@ -1,5 +1,6 @@
 Garrett Edel
 ============
+`LinkedIn <https://www.linkedin.com/in/garrettedel/>`_/`Github <https://github.com/edelgm6/>`_
 
 Projects
 ----------------
@@ -13,8 +14,10 @@ Projects
 
 * `Babiators Lost & Found <https://babiators.com/pages/guarantee-program>`__ (repo private): REST API to facilitate Babiators' Lost and Found redemption program (register products, manage inventory availability across multiple distributors, redeem products, charge for shipping, etc.)
 
-Links
------
-`Github <https://github.com/edelgm6/>`_
+Writing
+-------
+* `Remembering Uncle Tom <https://medium.com/@garrettedel/remembering-uncle-tom-91d519857984>`_
 
-`LinkedIn <https://www.linkedin.com/in/garrettedel/>`_
+* `Up On the Stand With Plutarch <https://medium.com/@garrettedel/up-on-the-stand-with-plutarch-655ba810f205>`_
+
+* `Turning Thirty <https://medium.com/@garrettedel/turning-thirty-b22ac9418108>`_
