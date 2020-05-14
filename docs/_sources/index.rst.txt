@@ -11,6 +11,8 @@ Projects
 
 * Retool Pokedex (`repo <https://github.com/edelgm6/retool-pokedex>`__): Simple REST API to store Pokemon. Created to test functionality of `Retool <https://retool.com/>`_
 
+* `Babiators Lost & Found <https://babiators.com/pages/guarantee-program>`__ (repo private): REST API to facilitate Babiators' Lost and Found redemption program (register products, manage inventory availability across multiple distributors, redeem products, charge for shipping, etc.)
+
 
 Links
 -----
