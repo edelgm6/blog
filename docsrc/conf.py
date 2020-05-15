@@ -43,11 +43,16 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
-html_sidebars = {'**': []}
+html_sidebars = {'**': ['about.html',]}
 html_add_permalinks = ''
 html_title = ''
+html_theme_options = {
+    'logo': 'logo.png',
+    'github_user': 'edelgm6',
+    'analytics_id': 'UA-166777766-1'
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static/custom.css']
+html_static_path = ['_static']
