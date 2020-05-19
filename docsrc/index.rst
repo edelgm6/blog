@@ -25,4 +25,4 @@ Writing
 Misc
 ----
 
-`Articles <https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ_6boDsPRPN7sjWHiQFm9tcYs-9pLGLE7L3-d5DFduSObcF04Knzf5Il3-nu_R519UyfR7WZZm6-R/pubhtml?gid=0&single=true>`_: Repo of articles/essays/short stories I want to save
+`Articles <https://www.notion.so/Articles-Repo-bd0e2d1a147e4499a3809f1c3bf1fa21>`_: Repo of articles/essays/short stories I want to save
