@@ -6,7 +6,7 @@ Projects
 ----------------
 `MortgageROI <https://www.mortgageroi.com/>`_ (`repo <https://github.com/edelgm6/mortgage-calc/>`__): Calculator to understand economics of renting v. buying a home (e.g., what is my expected IRR if I buy a $500K home at a 3.0% interest rate and sell 9 years later?)
 
-`Montecarlo Poker <https://montecarlo-poker.herokuapp.com/>`_ (`repo <https://github.com/edelgm6/montecarlo-holdem/>`__): Monte Carlo simulator for Texas Holdem hands (e.g., if I have pocket Queens and an opponent has a King/Queen suited, how often will I win?)
+`Montecarlo Poker <https://montecarlo-poker.herokuapp.com/>`_ (`repo <https://github.com/edelgm6/montecarlo-holdem/>`__): Monte Carlo simulator for Texas Holdem (e.g., if I have pocket Queens and an opponent has a King/Queen suited, how often will I win?)
 
 `Draft-CLI <https://pypi.org/project/draft-cli/>`_ (`repo <https://github.com/edelgm6/draft>`__): Command Line Interface tool for writing long, modular documents in Markdown and managing version control with git
 
