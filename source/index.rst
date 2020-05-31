@@ -10,9 +10,9 @@ Projects
 
 `Draft-CLI <https://pypi.org/project/draft-cli/>`_ (`repo <https://github.com/edelgm6/draft>`__): Command Line Interface tool for writing long, modular documents in Markdown and managing version control with git
 
-Retool Pokedex (`repo <https://github.com/edelgm6/retool-pokedex>`__): Simple REST API to store Pokemon — created to test functionality of `Retool <https://retool.com/>`_
-
 `Babiators Lost & Found <https://babiators.com/pages/guarantee-program>`__ (repo private): REST API and management system to facilitate Babiators' Lost and Found redemption program (register products, manage inventory availability across multiple distributors, redeem products, charge for shipping, etc.)
+
+Retool Pokedex (`repo <https://github.com/edelgm6/retool-pokedex>`__): Simple REST API to store Pokemon — created to test functionality of `Retool <https://retool.com/>`_
 
 Writing
 -------
