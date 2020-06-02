@@ -3,7 +3,7 @@ Garrett Edel
 `LinkedIn <https://www.linkedin.com/in/garrettedel/>`_/`Github <https://github.com/edelgm6/>`_
 
 Projects
-----------------
+--------
 `MortgageROI <https://www.mortgageroi.com/>`_ (`repo <https://github.com/edelgm6/mortgage-calc/>`__): Calculator to understand economics of renting v. buying a home (e.g., what is my expected IRR if I buy a $500K home at a 3.0% interest rate and sell 9 years later?)
 
 `Montecarlo Poker <https://montecarlo-poker.herokuapp.com/>`_ (`repo <https://github.com/edelgm6/montecarlo-holdem/>`__): Monte Carlo simulator for Texas Holdem (e.g., if I have pocket Queens and an opponent has a King/Queen suited, how often will I win?)
@@ -16,11 +16,20 @@ Retool Pokedex (`repo <https://github.com/edelgm6/retool-pokedex>`__): Simple RE
 
 Writing
 -------
+
+Essays
+++++++
+
 `Remembering Uncle Tom <https://medium.com/@garrettedel/remembering-uncle-tom-91d519857984>`_
 
 `Up On the Stand With Plutarch <https://medium.com/@garrettedel/up-on-the-stand-with-plutarch-655ba810f205>`_
 
 `Turning Thirty <https://medium.com/@garrettedel/turning-thirty-b22ac9418108>`_
+
+Technical
++++++++++
+
+`Understanding Window Functions <https://medium.com/@garrettedel/understanding-window-functions-bc80851e0e14?source=friends_link&sk=aed8840b22ed3f490f9ca114a4265fc2>`_
 
 Misc
 ----
