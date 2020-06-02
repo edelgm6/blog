@@ -46,13 +46,13 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
-html_sidebars = {'**': ['about.html',]}
+html_sidebars = {'**': ['about.html','navigation.html',]}
 html_add_permalinks = ''
-html_title = ''
 html_theme_options = {
     'logo': 'logo.png',
     'github_user': 'edelgm6',
-    'analytics_id': 'UA-166777766-1'
+    'analytics_id': 'UA-166777766-1',
+    'fixed_sidebar': 'True'
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
