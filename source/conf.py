@@ -18,6 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'gepage'
+html_title = ''
 copyright = '2020, Garrett Edel'
 author = 'Garrett Edel'
 
