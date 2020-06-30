@@ -21,6 +21,8 @@ Writing
 Essays
 ++++++
 
+`A Reunion in Ireland <https://medium.com/@garrettedel/a-reunion-in-ireland-e733c1fcb959>`_
+
 `Remembering Uncle Tom <https://medium.com/@garrettedel/remembering-uncle-tom-91d519857984>`_
 
 `Up On the Stand With Plutarch <https://medium.com/@garrettedel/up-on-the-stand-with-plutarch-655ba810f205>`_
