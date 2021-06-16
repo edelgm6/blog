@@ -32,6 +32,8 @@ extensions = [
     'sphinx.ext.githubpages'
 ]
 
+html_baseurl = 'garrettedel.com'
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
