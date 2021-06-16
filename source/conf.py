@@ -48,7 +48,6 @@ exclude_patterns = []
 #
 html_theme = 'alabaster'
 html_sidebars = {'**': ['about.html',]}
-html_add_permalinks = ''
 html_theme_options = {
     'logo': 'logo.png',
     'github_user': 'edelgm6',

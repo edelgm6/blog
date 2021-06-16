@@ -1,7 +1,7 @@
 Garrett Edel
 ============
 
-`LinkedIn <https://www.linkedin.com/in/garrettedel/>`_/`Github <https://github.com/edelgm6/>`_
+`LinkedIn <https://www.linkedin.com/in/garrettedel/>`_/`Github <https://github.com/edelgm6/>`_/`Stack Overflow <https://stackoverflow.com/users/4608597/garrett-edel>`_
 
 Projects
 --------
